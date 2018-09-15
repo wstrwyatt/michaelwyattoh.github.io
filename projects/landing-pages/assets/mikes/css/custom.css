@@ -460,6 +460,10 @@ span.notes{
     
 }
 
+#location a{
+    color: #fff;
+}
+
 @media only screen and (max-width: 870px) {
     .hero-text{
         font-size: 2em;
