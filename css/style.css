@@ -175,6 +175,16 @@ nav li a:hover{
 	text-decoration: underline;
 }
 
+#alert{
+	background: #e22632;
+	color: #fff;
+	text-align: center;
+}
+
+strong{
+	font-weight: bold;
+}
+
 
 /*=====================================
 # Hero
